@@ -1,0 +1,4 @@
+hello this is the input file
+for 
+second practical for lab of
+Compiler design
